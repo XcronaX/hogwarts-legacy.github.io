@@ -15,7 +15,7 @@ body {
 .container {
   max-width: 75rem;
   margin: 0 auto;
-  padding: 0 2rem;
+  padding: 0 1,5rem;
 }
 
 a {
@@ -59,7 +59,7 @@ img {
 .header__container {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 0 60px;
+  padding: 0 24px;
   height: 80px;
   display: flex;
   align-items: center;
@@ -132,7 +132,7 @@ img {
 
 .nav__list {
   display: flex;
-  gap: 32px;
+  gap: 24px;
   align-items: center;
 }
 .nav__link {
@@ -160,7 +160,7 @@ img {
 .hero .container {
   max-width: none;
   margin: 0;
-  padding-left: 8rem;
+  padding-left: 4rem;
 }
 .hero__container {
   position: relative;
@@ -174,16 +174,16 @@ img {
   font-weight: 800;
   color: #f5a623;
   line-height: 1.05;
-  margin-bottom: 2rem;
+  margin-bottom: 1.5rem;
 }
 .hero__text {
   font-size: 1.2rem;
   color: rgba(255,255,255,0.9);
-  margin-bottom: 2.5rem;
+  margin-bottom: 1.5rem;
   max-width: 480px;
 }
 .hero__button {
-  padding: 1rem 2.5rem;
+  padding: 0,75rem 1.5rem;
   border-radius: 3rem;
 }
 .hero__image {
@@ -192,7 +192,7 @@ img {
 
 .games {
   background: #07052b;
-  padding: 100px 0;
+  padding: 64px 0;
   display: flex;
   justify-content: center;
 }
@@ -248,7 +248,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 80px;
+  padding: 0 40px;
   box-sizing: border-box;
 }
 .promo__content {
@@ -259,17 +259,17 @@ img {
   font-weight: 800;
   color: #fff;
   line-height: 1.1;
-  margin-bottom: 25px;
+  margin-bottom: 24px;
 }
 .promo__subtitle {
   font-size: 18px;
   color: rgba(255,255,255,0.85);
-  margin-bottom: 40px;
+  margin-bottom: 24px;
   line-height: 1.6;
 }
 .promo__button {
   display: inline-block;
-  padding: 14px 32px;
+  padding: 10px 24px;
   background: linear-gradient(90deg, #6c8cff, #4a6cf7);
   color: #fff;
   border-radius: 30px;
@@ -298,7 +298,7 @@ img {
   max-width: 1400px;
   height: 100%;
   margin: 0 auto;
-  padding: 120px;
+  padding: 64px 24px;
   box-sizing: border-box;
   position: relative;
 }
@@ -319,7 +319,7 @@ img {
 .month__text {
   font-size: 18px;
   line-height: 1.6;
-  margin-bottom: 30px;
+  margin-bottom: 24px;
   opacity: 0.9;
 }
 .month__button {
@@ -337,8 +337,8 @@ img {
 .month__cards {
   display: flex;
   justify-content: center;
-  gap: 40px;
-  margin-top: 390px;
+  gap: 24px;
+  margin-top: 80px;
 }
 .month__item {
   text-align: center;
@@ -372,7 +372,7 @@ img {
 
 .footer__subscribe {
   background: linear-gradient(90deg, #ff1e3c, #ff3c3c);
-  padding: 0 60px;
+  padding: 0 24px;
   height: 110px;
   display: flex;
   align-items: center;
@@ -421,10 +421,10 @@ img {
 .footer__content {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 60px;
+  padding: 40px 24px;
   display: flex;
   justify-content: space-between;
-  gap: 40px;
+  gap: 24px;
 }
 
 .footer__column {
