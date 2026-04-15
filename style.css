@@ -337,15 +337,15 @@ img {
 .month__cards {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 8,5px;
   margin-top: 390px;
 }
 .month__item {
   text-align: center;
 }
 .month__card {
-  width: 350px;
-  height: 200px;
+  width: 388px;
+  height: 246px;
   border-radius: 20px;
   background-size: cover;
   background-position: center;
