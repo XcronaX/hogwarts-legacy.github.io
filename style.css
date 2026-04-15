@@ -372,7 +372,7 @@ img {
 
 .footer__subscribe {
   background: linear-gradient(90deg, #ff1e3c, #ff3c3c);
-  padding: 0 60px;
+  padding: 0 88px;
   height: 110px;
   display: flex;
   align-items: center;
@@ -421,7 +421,7 @@ img {
 .footer__content {
   max-width: 1400px;
   margin: 0 auto;
-  padding: 40px 24px;
+  padding: 60px;
   display: flex;
   justify-content: space-between;
   gap: 24px;
