@@ -337,7 +337,7 @@ img {
 .month__cards {
   display: flex;
   justify-content: center;
-  gap: 24px;
+  gap: 40px;
   margin-top: 80px;
 }
 .month__item {
